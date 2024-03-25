@@ -51,4 +51,12 @@ export default {
 $ npm i react-router-dom
 $ npm i react-icons
 ```
+### 8 - Instale pacotes do server 
+```bash
+$ npm i express nodemon
+```
 
+### 9 - Rodar o server
+```bash
+$ nodemon api/index.js
+```
